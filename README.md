@@ -7,27 +7,7 @@ Welcome to **FlutterJourney**! This repository is a personal project dedicated t
 
 ## 🚀 Getting Started
 
-To get started with FlutterJourney:
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/FlutterJourney.git
-   cd FlutterJourney
-   ```
-
-2. **Install Flutter**
-   Follow the [official installation guide](https://flutter.dev/docs/get-started/install) to set up Flutter on your machine.
-
-3. **Create a New Flutter Project**
-   ```bash
-   flutter create your_project_name
-   ```
-
-4. **Run the Project**
-   Navigate to the project directory and run:
-   ```bash
-   flutter run
-   ```
+To get started with FlutterJourney: 2/10/2024
 
 ## 📚 Learning Resources
 
